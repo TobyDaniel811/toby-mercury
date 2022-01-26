@@ -51,3 +51,5 @@ swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play
 <br><img src="https://www.linkpicture.com/q/IMG-20211102-WA0061.jpg" width="500" height="450"><br><b><font size="6" color="red" face="jolly Lodger">[+] <span class="one">! NIGERIAN</span> <small><small>}<span class="one">JAVA</span>{</small></small> <span class="one">SECURITY !</span>  [+]</font></b><br><br>
     <table background="white">
 <img src="https://downloads.vecteezy.com/system/protected/files/001/200/436/vecteezy_music-player-button-play_1200436.png" height="50px" width="50px">&nbsp; &nbsp; &nbsp;
+<div class="button"> 
+<a href="aboutus.md">Next page</a>
