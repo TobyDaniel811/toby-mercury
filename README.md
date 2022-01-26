@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# WELCOME TO PHILIP SMITH WEBSITE.
+### 👋 Hi, I’m Philip Smith.
+### 👀 This website is verified don't panic.
+### 🌱 I’m only a sad developer, feel at home, download what you see😃....🤭🤭.
+### 💞️ I’m looking to collaborate on all projects.
+### 📫 How to reach me ...🤙 Later things😉 Scroll down first..😅
 
-You can use the [editor on GitHub](https://github.com/PMoviewebsite/PMoviewebsite.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+    <a href="https://github.com/Philipsmith617">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+my+Profile+Thank+You+For+Visiting+...."
+            alt="Typing SVG"
+>
+        </a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<center>
+<img class="image" src="https://www.linkpicture.com/q/Screenshot_20211125-213114_1.jpg" height="600" width="980"><br>
+<script>
+swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play Button, Enjoy the Music", "info") 
+.then((value) => { swal("Followed?!", "Did You Follow me On Github?", "warning");});
+</script>  
+<div class="blink">
+<div id="back"><font size="20">
+<b>
+  <span class="one">✨ Thank You For Visiting</span><span class="two"> Philip Smith ✨</span>
+  </b>
+</font>
+</div>
+</div>
+<center>
+  <b><span class="one">[+]<img src="https://www.linkpicture.com/q/e70da31e283d4653a2bf4c5b2b93fb25_1.jpg" width="100" height="100">[+]</span></b>
+  </center>
+<hr color="black">
+   <button onclick="typeWriter()" style="border-radius: 10px; background: none; opacity: 10px;"> <font id="demo" face="aladin" size="6" color="white"> -Qoutes-<br></font> </button>
+<script>
+   var i = 0;
+   var txt = 'NEVER STOP LEARNING, CAUSE LIFE NEVER STOPS TEACHING...';
+   var speed = 70;
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PMoviewebsite/PMoviewebsite.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   function typeWriter() {
+   if (i < txt.length) {
+   document.getElementById("demo").innerHTML += txt.charAt(i);
+   i++;
+   setTimeout(typeWriter, speed);
+   }
+   }
+   </script> 
+<footer>
+<img src="https://www.linkpicture.com/q/IMG-20211102-WA0056.jpg" width="70%"><h2>  [-] I am Fine & I am Strong &  I am Not Alone MJ❤️ [-]</h2>
+</footer>
+<br><img src="https://www.linkpicture.com/q/IMG-20211102-WA0061.jpg" width="500" height="450"><br><b><font size="6" color="red" face="jolly Lodger">[+] <span class="one">! NIGERIAN</span> <small><small>}<span class="one">JAVA</span>{</small></small> <span class="one">SECURITY !</span>  [+]</font></b><br><br>
+    <table background="white">
+<img src="https://downloads.vecteezy.com/system/protected/files/001/200/436/vecteezy_music-player-button-play_1200436.png" height="50px" width="50px">&nbsp; &nbsp; &nbsp;
