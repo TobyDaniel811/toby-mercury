@@ -1,4 +1,4 @@
-
+<head> <script type='text/javascript' src='//pl16988301.trustedcpmrevenue.com/a9/79/e2/a979e26cc3ba8b48b1ccdf46ca8645ca.js'></script> </head>
 
 <img src="" width="400" height="400">
 <strong> </strong>
