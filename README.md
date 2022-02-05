@@ -1,12 +1,12 @@
 <head> <script type='text/javascript' src='//pl16988301.trustedcpmrevenue.com/a9/79/e2/a979e26cc3ba8b48b1ccdf46ca8645ca.js'></script> </head>
 
 
-# WELCOME TO PHILIP SMITH WEBSITE.
+# WELCOME TO MOVIE WEBSITE.
 ### 👋 Hi, I’m Philip Smith.
 ### 👀 This website is verified don't panic.
 ### 🌱 I’m only a sad developer, feel at home, download what you see😃....🤭🤭.
-### 💞️ I’m looking to collaborate on all projects.
-### 📫 How to reach me ...🤙 Later things😉 Scroll down first..😅
+### 💞️ Scroll down to download your favorite movies, all genres packed in one site.
+### 📫 How to reach me ...🤙 <a href="www.instagram.com/the_real_philip617"> class="btn btn-primary btn-lg">CONTACT ME</a>😉 
 
 <p align="center">
     <a href="https://github.com/Philipsmith617">
@@ -48,11 +48,3 @@ swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play
    }
    }
    </script> 
-<footer>
-<img src="https://www.linkpicture.com/q/IMG-20211102-WA0056.jpg" width="70%"><h2>  [-] I am Fine & I am Strong &  I am Not Alone MJ❤️ [-]</h2>
-</footer>
-<br><img src="https://www.linkpicture.com/q/IMG-20211102-WA0061.jpg" width="500" height="450"><br><b><font size="6" color="red" face="jolly Lodger">[+] <span class="one">! NIGERIAN</span> <small><small>}<span class="one">JAVA</span>{</small></small> <span class="one">SECURITY !</span>  [+]</font></b><br><br>
-    <table background="white">
-<img src="https://downloads.vecteezy.com/system/protected/files/001/200/436/vecteezy_music-player-button-play_1200436.png" height="50px" width="50px">&nbsp; &nbsp; &nbsp;
-<div class="button"> 
-<a href="aboutus.md">Next page</a>
