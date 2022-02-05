@@ -1,4 +1,7 @@
-
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5964419669197040"
+     crossorigin="anonymous"></script>
+</head>
 
 # WELCOME TO MOVIE WEBSITE.
 ### 👋 Hi, I’m Philip Smith.
