@@ -48,4 +48,4 @@ swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play
    }
    }
    </script> 
-<a href="movies.md" class="btn btn-primary btn-lg">NEXT PAGE</a>
+<a href="movies.html" class="btn btn-primary btn-lg">NEXT PAGE</a>
