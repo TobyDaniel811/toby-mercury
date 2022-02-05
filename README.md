@@ -6,7 +6,7 @@
 ### 👀 This website is verified don't panic.
 ### 🌱 I’m only a sad developer, feel at home, download what you see😃....🤭🤭.
 ### 💞️ Scroll down to download your favorite movies, all genres packed in one site.
-### 📫 How to reach me ...🤙 <a href="www.instagram.com/the_real_philip617"> class="btn btn-primary btn-lg">CONTACT ME</a>😉 
+### 📫 How to reach me ...🤙 <a href="www.instagram.com/the_real_philip617">CONTACT ME</a>😉 
 
 <p align="center">
     <a href="https://github.com/Philipsmith617">
