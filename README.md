@@ -213,7 +213,6 @@ swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play
 <div id="fastcomments-widget"></div>
 <script>
     FastCommentsUI(document.getElementById('fastcomments-widget'), {
-        tenantId: '2rsrAV7Jj9C'
+        tenantId: 'c89Q6jWlDJgBM'
     });
 </script>
-
