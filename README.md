@@ -21,7 +21,7 @@ swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play
 <div class="blink">
 <div id="back"><font size="20">
 <b>
-  <span class="one">✨ Thank You For Visiting</span><span class="two"> Tony Mercury ✨</span>
+  <span class="one">✨ Thank You For Visiting</span><span class="two"> Toby Mercury ✨</span>
   </b>
 </font>
 </div>
@@ -209,14 +209,11 @@ swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play
  Request for Movies🙂.. Comment your ideas will get back instantly..
 </h1>
 
-
-</div>
 <script src="https://cdn.fastcomments.com/js/embed-v2.min.js"></script>
 <div id="fastcomments-widget"></div>
 <script>
     FastCommentsUI(document.getElementById('fastcomments-widget'), {
-        tenantId: 'AC6VPRnrDyH'
+        tenantId: '2rsrAV7Jj9C'
     });
 </script>
-
 
