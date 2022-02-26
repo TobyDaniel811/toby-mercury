@@ -1,17 +1,11 @@
-<head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5964419669197040"
-     crossorigin="anonymous"></script>
-</head>
 
 # WELCOME TO MOVIE WEBSITE.
-### 👋 Hi, I’m Philip Smith.
-### 👀 This website is verified don't panic.
-### 🌱 I’m only a sad developer, feel at home, download what you see😃....🤭🤭.
-### 💞️ Scroll down to download your favorite movies, all genres packed in one site.
-### 📫 How to reach me ...🤙 <a href="https://Instagram.com/the_real_philip617">CONTACT ME</a>😉 
+### 👋 Hi, I’m Toby Mercury.
+### 👀 This website is verified don't panic. It is an affiliate site to <a href="pmoviewebsite.github.io">Movie Website</a>
+### 📫 How to reach me ...🤙 <a href="https://api.whatsapp.com/send?phone=+2349036967062&text=Hello+support,+good+day!+I+would+like+to+join+the+GEM++(Game+Earning+website)+Team">CONTACT ME</a>😉 
 
 <p align="center">
-    <a href="https://github.com/Philipsmith617">
+    <a href="https://github.com/TobyDaniel811">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+my+Profile+Thank+You+For+Visiting+...."
             alt="Typing SVG"
@@ -19,7 +13,7 @@
         </a>
 
 <center>
-<img class="image" src="https://www.linkpicture.com/q/Screenshot_20211125-213114_1.jpg" height="600" width="980"><br>
+<img class="image" src="https://i.postimg.cc/d0GMcNyY/Ephoto360-com-1621a13e59ff84.jpg" height="600" width="980"><br>
 <script>
 swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play Button, Enjoy the Music", "info") 
 .then((value) => { swal("Followed?!", "Did You Follow me On Github?", "warning");});
@@ -27,7 +21,7 @@ swal("Thank You Message", "Thank You For Visiting Us, Use Earphones & Click Play
 <div class="blink">
 <div id="back"><font size="20">
 <b>
-  <span class="one">✨ Thank You For Visiting</span><span class="two"> Philip Smith ✨</span>
+  <span class="one">✨ Thank You For Visiting</span><span class="two"> Tony Mercury ✨</span>
   </b>
 </font>
 </div>
