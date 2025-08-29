@@ -1,7 +1,7 @@
 
 # WELCOME TO WORLD OF MOVIES.
-### 👋 Hi, I’m Toby Mercury.
-### 👀 This website is verified don't panic. It is an affiliate site to <a href="pmoviewebsite.github.io">Movie Website</a>
+## 👋 Hi, I’m Toby Mercury.
+## 👀 This website is verified don't panic. It is an affiliate site to <a href="pmoviewebsite.github.io">Movie Website</a>
 ### 📫 How to reach me ...🤙 <a href="https://api.whatsapp.com/send?phone=+2349036967062&text=Hello+support,+good+day!+I+would+like+to+join+the+GEM++(Game+Earning+website)+Team">CONTACT ME</a>😉 
 
 <p align="center">
